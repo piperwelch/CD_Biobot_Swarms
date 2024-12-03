@@ -1,0 +1,60 @@
+This file contains the pickle files corresponding to the cilia patterns 
+for each of our 4 evolved and random swarms
+
+Evolved swarms
+
+swarm_6 = [
+"pickles/bot_2022_10_07_09_21_08_PM.p","red",
+"pickles/bot_2022_10_07_09_19_50_PM.p","green",
+"pickles/bot_2022_10_07_08_18_13_PM.p","blue",
+"pickles/bot_2022_10_07_09_16_39_PM.p","purple",
+]
+
+swarm_7 = [
+"pickles/bot_2022_10_07_08_18_13_PM.p","red",
+"pickles/bot_2022_10_07_09_19_50_PM.p","green",
+"pickles/bot_2022_10_07_09_21_08_PM.p","blue",
+"pickles/bot_2022_10_07_09_16_39_PM.p","purple",
+]
+
+swarm_2 = [
+"pickles/bot_2022_10_07_08_18_13_PM.p","red",
+"pickles/bot_2022_10_07_09_21_08_PM.p","green",
+"pickles/bot_2022_10_07_09_19_50_PM.p","blue",
+"pickles/bot_2022_10_07_09_16_39_PM.p","purple"
+]
+
+swarm_1 = [
+"pickles/bot_2022_10_07_09_19_50_PM.p","red",
+"pickles/bot_2022_10_07_08_18_13_PM.p","green",
+"pickles/bot_2022_10_07_09_21_08_PM.p","blue",
+"pickles/bot_2022_10_07_09_16_39_PM.p","purple"
+]
+
+Random swarms #3,4,5 generated 12/2022
+swarm_3 = ["pickles/bot_2022_10_07_09_16_53_PM.p","red",
+"pickles/bot_2022_10_07_09_16_57_PM.p","green",
+"pickles/bot_2022_10_07_09_23_09_PM.p","blue",
+"pickles/bot_2022_10_07_09_18_59_PM.p","purple"
+]
+
+swarm_4 = ["pickles/bot_2022_10_07_09_22_26_PM.p","red",
+"pickles/bot_2022_10_07_09_22_01_PM.p","green",
+"pickles/bot_2022_10_07_08_18_26_PM.p","blue",
+"pickles/bot_2022_10_07_09_22_39_PM.p","purple"
+]
+
+swarm_5 = ["pickles/bot_2022_10_07_09_18_55_PM.p","red",
+"pickles/bot_2022_10_07_08_19_24_PM.p","green",
+"pickles/bot_2022_10_07_09_22_34_PM.p","blue",
+"pickles/bot_2022_10_07_09_22_59_PM.p","purple"
+]
+
+#random swarm 8 seed 1 from test_gen_random.ipynb generated 3/20 using seed 0 
+#generated without setting random seed
+
+swarm_8 = ['pickles/bot_2022_10_07_09_18_05_PM.p',"red",
+            'pickles/bot_2022_10_07_09_20_52_PM.p',"green",
+            'pickles/bot_2022_10_07_08_18_20_PM.p', "blue",
+            'pickles/bot_2022_10_07_09_19_30_PM.p', "purple"
+]
